@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/yourname/rename_display.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=E! OS Renamer
